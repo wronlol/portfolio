@@ -1,20 +1,19 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Portfolio",
+  "name": "Łukasz Gawron",
+  "ascii": "gawron",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/wronlol",
+    "linkedin": "https://www.linkedin.com/in/%C5%82ukasz-gawron-3b7961118?"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "lukasz1gaw@gmail.com",
+  "ps1_hostname": "gawron",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/wronlol",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
   "colors": {
     "light": {
